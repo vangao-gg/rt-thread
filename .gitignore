@@ -44,10 +44,13 @@ ncscope.*
 tags
 
 .idea
-.vscode
+# .vscode
 *.code-workspace
 *.eide.*
 .history
 CMakeLists.txt
 cmake-build-debug
 *.mk
+bsp/stm32/stm32f103-fire-arbitrary/EventRecorderStub.scvd
+.vscode/.cortex-debug.registers.state.json
+.vscode/settings.json
